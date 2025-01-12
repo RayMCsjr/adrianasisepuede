@@ -1,0 +1,34 @@
+{
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-12 20:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-01-12 20:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-12 20:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-12 20:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2025-01-12 20:56:22 +0000",
+      "minecraft:snowy_beach": "2025-01-12 20:56:09 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3839
+}
